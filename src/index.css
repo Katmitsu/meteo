@@ -2,7 +2,7 @@ body {
   background-color: rgb(242, 244, 229);
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
 }
 .app {
