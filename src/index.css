@@ -13,3 +13,8 @@ body {
   border-radius: 16px;
   padding: 30px;
 }
+.search-form-input {
+  background-color: rgb(242, 244, 229);
+  border: none;
+  border-radius: 6px;
+}
