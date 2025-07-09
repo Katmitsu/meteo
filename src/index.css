@@ -41,6 +41,14 @@ a {
   color: rgb(130, 123, 109);
   font-family: "Roboto Mono", monospace;
 }
+main {
+  padding: 30px 0;
+}
+
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+}
 
 footer {
   border-bottom: 1px solid #f9f9f9;
